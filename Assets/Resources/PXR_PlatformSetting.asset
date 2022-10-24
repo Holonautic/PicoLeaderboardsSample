@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 508edb944d24e574595a91425051a8e4, type: 3}
   m_Name: PXR_PlatformSetting
   m_EditorClassIdentifier: 
-  entitlementCheckSimulation: 0
-  startTimeEntitlementCheck: 0
-  appID: 
-  deviceSN: []
+  entitlementCheckSimulation: 1
+  startTimeEntitlementCheck: 1
+  appID: bcbbe2312c4b9a3a2a99c99879975401
+  deviceSN:
+  - PA8A50DGG9270014G

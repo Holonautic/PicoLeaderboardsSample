@@ -190,7 +190,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:C:/Users/Nemanja/Desktop/PICO Unity Integration SDK v211",
+      "version": "file:C:/Users/nexxo/Desktop/PICO Unity Integration SDK v211",
       "depth": 0,
       "source": "local",
       "dependencies": {
